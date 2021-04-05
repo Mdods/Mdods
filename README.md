@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**Mdods/Mdods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### A lil abit me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full stack dev with an obsessive interest on "how it works" i like to get down and dirty an discover why! Front end focus, but i enjoy reaching over to the dark side aswell love to keep my back end tight with clean code!
+
+# Interests 🤓
+
+tech
+
+dogs
+
+chickens
+
+cows
+
+running away from bees
+
+building things that make me smile
+
+🧑‍💻 Recent Things 
+
+Working on a smart city app to help develop communities for 0 cost
+
+👨‍🏫 Next on the list to learn
+
+Blockchain
+
+Golang
