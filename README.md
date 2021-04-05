@@ -19,11 +19,11 @@ running away from bees
 
 building things that make me smile
 
-🧑‍💻 Recent Things 
+🧑‍💻 Recent Things!
 
 Working on a smart city app to help develop communities for 0 cost
 
-👨‍🏫 Next on the list to learnAZ~w
+👨‍🏫 Next on the list to learn!
 
 Blockchain
 
