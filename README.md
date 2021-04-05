@@ -23,7 +23,7 @@ building things that make me smile
 
 Working on a smart city app to help develop communities for 0 cost
 
-👨‍🏫 Next on the list to learn
+👨‍🏫 Next on the list to learnAZ~w
 
 Blockchain
 
